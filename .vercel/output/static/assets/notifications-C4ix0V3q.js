@@ -1,1 +1,0 @@
-import{c as e}from"./createServerFn-DJnEXMtc.js";import{c}from"./index-CStMYxeP.js";const o=e({method:"POST"}).handler(c("320362c93d5296d57f55bcbc9275bfdc521d27e864738f8f25ce53d911c6500e"));export{o as s};
