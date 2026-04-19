@@ -40,4 +40,6 @@ dist-ssr
 dist
 .output
 .vercel
+.wrangler
+.vinxi
 
